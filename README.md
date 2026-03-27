@@ -65,23 +65,16 @@ The system includes:
 ## Tabulation
 
 **Transmission Analysis Across Fiber Lengths**
+![6a](https://github.com/user-attachments/assets/3f0b3869-3ad2-455e-bb38-7345c4a4148a)
 
-| S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height | Decision Instant (Max Q / Min BER) |
-|------|-------------------|------------------------|----------------------|--------------|---------|-------------|-------------------------------------|
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-
----
 
 ## Graphs
+<img width="940" height="335" alt="6b" src="https://github.com/user-attachments/assets/5afd32b4-b736-4e42-a38f-15535c6d841d" />
+<img width="940" height="326" alt="6c" src="https://github.com/user-attachments/assets/c2526188-f7f3-4b8c-920f-f8733da8ad90" />
+<img width="1728" height="677" alt="6d" src="https://github.com/user-attachments/assets/a41fe0db-1755-4179-bd68-57c21b09204f" />
+<img width="1723" height="600" alt="6e" src="https://github.com/user-attachments/assets/49fd5873-335c-45c7-ac64-e0a7f0d5a729" />
+<img width="1734" height="601" alt="6f" src="https://github.com/user-attachments/assets/730ffcce-0823-45db-a1e3-7d8fbe542f42" />
 
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
-
----
 
 ## RESULT
-
-*(Summarize key findings from simulation and analysis)*
+Simulation of Optical Communication System is done compeleted successfully.
